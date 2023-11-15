@@ -15,7 +15,7 @@ require (
 	github.com/khulnasoft-lab/retryabledns v1.0.34
 	github.com/khulnasoft-lab/utils v0.0.47
 	github.com/logrusorgru/aurora v2.0.3+incompatible
-	github.com/miekg/dns v1.1.56
+	github.com/miekg/dns v1.1.57
 	github.com/pkg/errors v0.9.1
 	github.com/rs/xid v1.5.0
 	github.com/stretchr/testify v1.8.4
